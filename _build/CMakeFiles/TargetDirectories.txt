@@ -1,0 +1,7 @@
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/formatter_lib.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/formatter_ex_lib.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/solver_lib.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/solver.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/hello.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/edit_cache.dir
+/home/augustus/chvikandr/lab04/_build/CMakeFiles/rebuild_cache.dir
